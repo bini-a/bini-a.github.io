@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at <a href='https://www.emory.edu/home/index.html'>Emory University</a>. Previously Medical AI Research at <a href='https://www.mskcc.org/'>MSKCC</a>, <a href='https://www.brighamandwomens.org/'>Brigham and Women's Hospital</a>, <a href='https://www.duke.edu/'>Duke University</a> and <a href='https://www.yale.edu/'>Yale University</a>.
+subtitle: PhD Student at <a href='https://www.emory.edu/home/index.html'>Emory University</a>. Previously Medical AI Research at <a href='https://www.mskcc.org/'>MSKCC</a> and <a href='https://www.brighamandwomens.org/'>Brigham and Women's Hospital</a>.
 # Address. Contacts. Motto. Etc.
 
 profile:
@@ -35,6 +35,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-I am first year Computer Science and Informatics PhD student at <a href='https://www.emory.edu/home/index.html'>Emory University</a>. I previously conducted medical-AI research at <a href='https://www.mskcc.org/'>Memorial Sloan Kettering Cancer Center</a>  and  <a href='https://www.brighamandwomens.org/'>Brigham and Women's Hospital</a> where I built deep-learning models that extract quantitative biomarkers from clinical imaging to improve cancer risk prediction, treatment planning, and patient outcomes. 
+I am first year Computer Science and Informatics PhD student at <a href='https://www.emory.edu/home/index.html'>Emory University</a>. I previously conducted medical-AI research at <a href='https://www.mskcc.org/'>Memorial Sloan Kettering Cancer Center</a>  and  <a href='https://www.brighamandwomens.org/'>Brigham and Women's Hospital</a> There, I built deep-learning models that extract quantitative biomarkers from clinical imaging to improve cancer risk prediction, treatment planning, and patient outcomes. 
 
 I have a B.S. in Interdisciplinary Data Science from <a href='https://www.duke.edu/'>Duke University</a> and  <a href='https://dukekunshan.edu.cn/zh'>Duke Kunshan University</a> . 
+
+Check my <a href='https://scholar.google.com/citations?user=nDK_MCEAAAAJ&hl=en&oi=ao'>google scholar profile</a>  for the list of my publications. 
