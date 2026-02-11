@@ -9,7 +9,7 @@ I am a first-year Computer Science and Informatics PhD student at <a href='https
 
 I previously conducted medical AI research at <a href='https://www.mskcc.org/'>Memorial Sloan Kettering Cancer Center</a>  and in the AI in Medicine Program at <a href='https://www.brighamandwomens.org/'>Brigham and Women's Hospital</a>.  There, I developed deep-learning models that extract quantitative biomarkers from MRI and CT scans, improving cancer risk prediction, treatment planning, and patient outcomes. 
  
-I have a B.S. in Interdisciplinary Data Science from <a href='https://www.duke.edu/'>Duke University</a> and  <a href='https://dukekunshan.edu.cn/zh'>Duke Kunshan University</a> . 
+I have a B.S. in Interdisciplinary Data Science from <a href='https://www.duke.edu/'>Duke University</a> and  <a href='https://dukekunshan.edu.cn'>Duke Kunshan University</a> . 
 
 
 <!-- ## Research Interests
