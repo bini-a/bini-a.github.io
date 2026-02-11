@@ -2,13 +2,15 @@
 ---
 
 @use "minimal-light";
-
-// /* Minimal avatar image styling for GitHub Pages compatibility */
 // .image.avatar img {
-// 	display: block;
-// 	max-width: 150px;
-// 	width: 100%;
-// 	height: auto;
-// 	border-radius: 8px;
-// 	margin: 0 auto;
+//   border-radius: 0 !important;
 // }
+// Override avatar image cropping and rotation
+.image.avatar img {
+	object-fit: contain;
+    // max-width: 150px;
+	width: 100%;
+	height: auto;
+    border-radius: 0 !important;
+	transform: none;
+}
