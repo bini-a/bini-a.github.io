@@ -6,11 +6,20 @@
 //   border-radius: 0 !important;
 // }
 // Override avatar image cropping and rotation
+// .image.avatar img {
+// 	object-fit: contain;
+//     // max-width: 150px;
+// 	width: 100%;
+// 	height: auto;
+//     border-radius: 0 !important;
+// 	transform: none;
+// }
 .image.avatar img {
-	object-fit: contain;
-    // max-width: 150px;
-	width: 100%;
-	height: auto;
-    border-radius: 0 !important;
-	transform: none;
+//   max-width: 120px !important;
+
+  width: 100% !important;
+  height: auto !important;
+  border-radius: 0 !important;
+//   border: 2px solid #333 !important;
+  object-fit: contain !important;
 }
