@@ -207,7 +207,7 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 0;
+      border-radius: 20px;
     }
 
       .image.avatar:before {
@@ -215,8 +215,8 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 0;
-        width: 80%;
+        border-radius: 20px;
+        width: 70%;
         padding: 20px;
         // border: 1px solid #ddd;
         // padding: 3px;
