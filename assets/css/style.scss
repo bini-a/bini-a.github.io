@@ -3,11 +3,11 @@
 
 @use "minimal-light";
 // Override avatar image cropping and rotation
-.image.avatar img {
-	object-fit: contain;
-    // max-width: 150px;
-	width: 100%;
-	height: auto;
-	border-radius: 0;
-	transform: none;
-}
+// .image.avatar img {
+// 	object-fit: contain;
+//     // max-width: 150px;
+// 	width: 100%;
+// 	height: auto;
+// 	border-radius: 0;
+// 	transform: none;
+// }
