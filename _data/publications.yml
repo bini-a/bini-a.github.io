@@ -1,7 +1,7 @@
 main:
 
   - title: "A generalizable foundation model for analysis of human brain MRI"
-    authors: Divyanshu Tak, <strong>Biniam A Garomsa*</strong>, Anna Zapaishchykova, Tafadzwa L. Chaunzwa, Juan Carlos Climent Pardo, ...
+    authors: Divyanshu Tak, <strong>Biniam A Garomsa</strong>, Anna Zapaishchykova, Tafadzwa L. Chaunzwa, Juan Carlos Climent Pardo, ...
     conference_short: Nat. Neurosci
     conference: <strong>Nature Neuroscience</strong>
     pdf: https://www.nature.com/articles/s41593-026-02202-6
@@ -12,7 +12,7 @@ main:
     image: ./assets/img/brainiac.jpeg  
 
   - title: Longitudinal Risk Prediction for Pediatric Glioma with Temporal Deep Learning
-    authors: Divyanshu Tak, <strong>Biniam A Garomsa*</strong>, Anna Zapaishchykova, Zezhong Ye, Sridhar Vajapeyam, ...
+    authors: Divyanshu Tak, <strong>Biniam A Garomsa</strong>, Anna Zapaishchykova, Zezhong Ye, Sridhar Vajapeyam, ...
     conference_short: NEJM AI 
     conference: <strong>NEJM AI</strong>
     pdf: https://arxiv.org/pdf/2306.00988.pdf
